@@ -1,7 +1,6 @@
 # TCGA_AB_Compartments
-A/B compartments (open/closed chromatin) for 12 cancer types estimated from TCGA methylation data
 
-Paper: [Fortin et al., 2015](http://biorxiv.org/content/early/2015/06/03/019000.full-text.pdf+html)
+In our recent paper available as a preprint on bioRxiv [Fortin et al., 2015](http://biorxiv.org/content/early/2015/06/03/019000.full-text.pdf+html), we estimated from TCGA methylation data the A/B compartments for 12 different cancer types. 
 
 ## What do the data look like
 The data are saved as tab-delimited text files. The first three columns represent the genomic coordinates of the bin, the fourth column reports the value of the eigenvector for the bin, and the fifth column categorizes the bin as "open" or "closed" (A and B compartment respectively). 
