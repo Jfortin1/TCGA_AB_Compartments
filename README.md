@@ -50,6 +50,11 @@ We preprocessed each methylation cancer dataset separately by using the 'noob' b
 D Siegmund. *Low-level processing of Illumina Infinium DNA Methylation
 BeadArrays*. Nucleic Acids Research, 41(7):e90, 2013. doi:10.1093/nar/gkt090.
 
+**[Aryee et al., 2014]**: Martin J. Aryee, Andrew E. Jaffe, Hector Corrada-Bravo, Christine Ladd-Acosta, Andrew
+P. Feinberg, Kasper D. Hansen, and Rafael A. Irizarry. *Minfi: A flexible and comprehensive
+Bioconductor package for the analysis of Infinium DNA Methylation microarrays.*
+Bioinformatics, 30(10):1363–1369, 2014. doi:10.1093/bioinformatics/btu049.
+
 
 
 
