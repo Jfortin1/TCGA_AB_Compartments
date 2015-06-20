@@ -3,11 +3,7 @@ A/B compartments (open/closed chromatin) for 12 cancer types estimated from TCGA
 
 # Cancers analyzed
 
-BLCA: 
 
-BRCA:
-
-COAD:
 
 HNSC:
 
@@ -22,5 +18,7 @@ LUAD
 | Abbreviation        | Full name           | 
 | ------------- |:-------------:| 
 | BLCA     | Bladder Urothelial Carcinoma | 
-| col 2 is      | centered      | 
-| zebra stripes | are neat      | 
+| BRCA | Breast Invasive Carcinoma |
+| COAD | Colon Adenocarcinoma |
+
+
