@@ -1,2 +1,2 @@
 # TCGA_AB_Compartments
-A/B compartments for 12 cancer types estimated from TCGA methylation data
+A/B compartments (open/closed chromatin) for 12 cancer types estimated from TCGA methylation data
