@@ -1,3 +1,5 @@
+![alt tag](https://raw.github.com/jfortin1/TCGA_AB_Compartments/master/figures/barplot.png)
+
 # TCGA_AB_Compartments
 
 Analysis of Hi-C data has shown that the genome can be divided into two compartments
