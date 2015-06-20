@@ -3,7 +3,7 @@ A/B compartments (open/closed chromatin) for 12 cancer types estimated from TCGA
 
 Paper: [Fortin et al., 2015](http://biorxiv.org/content/early/2015/06/03/019000.full-text.pdf+html)
 
-## What does the data look like
+## What do the data look like
 
 ## Cancers analyzed
 
