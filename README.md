@@ -41,7 +41,7 @@ chr1	1300000	1399999	-0.585600098287715	open
 
 ## Visualization 
 
-The subdirectory \ttt{visualization}
+The subdirectory `visualization`
 
 ## Note about preprocessing
 
