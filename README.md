@@ -3,6 +3,7 @@ A/B compartments (open/closed chromatin) for 12 cancer types estimated from TCGA
 
 ## Preprocessing
 
+We preprocessed each methylation cancer dataset separately by using the noob background correction method followed by functional normalization, both implemented in the minfi package.  
 
 ## Cancers analyzed
 
