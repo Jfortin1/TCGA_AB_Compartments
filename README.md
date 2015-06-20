@@ -4,7 +4,7 @@ A/B compartments (open/closed chromatin) for 12 cancer types estimated from TCGA
 # Cancers analyzed
 
 | Abbreviation        | Full name           | 
-| ------------- |:-------------:| 
+| ------------- |-------------| 
 | BLCA     | Bladder Urothelial Carcinoma | 
 | BRCA | Breast invasive carcinoma |
 | COAD | Colon adenocarcinoma |
