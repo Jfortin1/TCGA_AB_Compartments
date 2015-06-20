@@ -1,4 +1,4 @@
-![alt tag](https://raw.github.com/jfortin1/TCGA_AB_Compartments/master/figures/barplot.png)
+![alt tag](https://raw.github.com/jfortin1/TCGA_AB_Compartments/master/figures/try.png)
 
 # TCGA_AB_Compartments
 
