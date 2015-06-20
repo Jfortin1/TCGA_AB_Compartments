@@ -8,7 +8,7 @@ Paper: [Fortin et al., 2015](http://biorxiv.org/content/early/2015/06/03/019000.
 ```{}
 head blca_tumor_compartments_100kb.txt
 
-chr	start	end	eigen	domain
+chr	  start	  end	  eigen	  domain
 chr1	500000	599999	-0.448558697994734	open
 chr1	600000	699999	-0.317063576958963	open
 chr1	700000	799999	-0.0518659472420911	open
