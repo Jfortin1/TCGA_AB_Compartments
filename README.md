@@ -41,7 +41,7 @@ We preprocessed each methylation cancer dataset separately by using the 'noob' b
 
 ### References
 
-
+<sup>
 **[Fortin et al., 2015]**: Jean-Philippe Fortin, Kasper D. Hansen. *Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data*. bioRxiv, doi: http://dx.doi.org/10.1101/019000
 
 **[Fortin et al., 2014]**: Jean-Philippe Fortin, Aurélie Labbe, Mathieu Lemire, Brent W Zanke, Thomas J Hudson, Elana J Fertig, Celia MT Greenwood, Kasper D Hansen. *Functional normalization of 450k methylation array data improves replication in large cancer studies.* Genome Biology, 15(11):503, 2014b, doi:10.1186/s13059-014-0503-2.
@@ -54,6 +54,7 @@ BeadArrays*. Nucleic Acids Research, 41(7):e90, 2013. doi:10.1093/nar/gkt090.
 P. Feinberg, Kasper D. Hansen, and Rafael A. Irizarry. *Minfi: A flexible and comprehensive
 Bioconductor package for the analysis of Infinium DNA Methylation microarrays.*
 Bioinformatics, 30(10):1363–1369, 2014. doi:10.1093/bioinformatics/btu049.
+<sup>
 
 
 
