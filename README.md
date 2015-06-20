@@ -37,6 +37,8 @@ chr1	1300000	1399999	-0.585600098287715	open
 | THCA | Thyroid carcinoma |
 | UCEC | Uterine Corpus Endometrial Carcinoma |
 
+## Visualization 
+
 ## Note about preprocessing
 
 We preprocessed each methylation cancer dataset separately by using the 'noob' background correction method [[Triche et al., 2013](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3627582/)] followed by Functional normalization [[Fortin et al., 2014](http://www.genomebiology.com/2014/15/12/503)], both implemented in the minfi package [[Aryee et al., 2014](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4016708/)]  
