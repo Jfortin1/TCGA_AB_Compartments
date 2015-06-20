@@ -4,7 +4,7 @@ A/B compartments (open/closed chromatin) for 12 cancer types estimated from TCGA
 Paper: [Fortin et al., 2015](http://biorxiv.org/content/early/2015/06/03/019000.full-text.pdf+html)
 
 ## What do the data look like
-
+The data are saved as tab-delimited text files. The first three columns represent the genomic coordinates of the bin, the fourth column reports the value of the eigenvector for the bin, and the fifth column categorizes the bin as "open" or "closed" (A and B compartment respectively). 
 ```{}
 chr    start    end    eigen    domain
 chr1	500000	599999	-0.448558697994734	open
