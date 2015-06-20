@@ -46,6 +46,10 @@ We preprocessed each methylation cancer dataset separately by using the 'noob' b
 
 **[Fortin et al., 2014]**: Jean-Philippe Fortin, Aurélie Labbe, Mathieu Lemire, Brent W Zanke, Thomas J Hudson, Elana J Fertig, Celia MT Greenwood, Kasper D Hansen. *Functional normalization of 450k methylation array data improves replication in large cancer studies.* Genome Biology, 15(11):503, 2014b, doi:10.1186/s13059-014-0503-2.
 
+**[Triche et al., 2013]**: Timothy J Triche, Daniel J Weisenberger, David Van Den Berg, Peter W Laird, and Kimberly
+D Siegmund. *Low-level processing of Illumina Infinium DNA Methylation
+BeadArrays*. Nucleic Acids Research, 41(7):e90, 2013. doi:10.1093/nar/gkt090.
+
 
 
 
