@@ -21,14 +21,22 @@ abBarplot <- function(abdata, main = "", ylim = c(-2, 2),
         border = col, col = col, main = main, yaxt = "n")
 }
 
+# convert the data to a GRanges:
+convert2GRanges <- function(abdata){
+	library(GenomicRanges)
+	gr <- GRanges(seqnames=abdata$chr,IRanges(start=data$start, end=data$end))
+	genome(gr) <- "hg19"
+	gr$eigen <- abdata$eigen
+	gr$domain <- abdata$domain
+	gr
+}
+
 
 file <- "../data/prad_tumor_compartments_100kb.txt" # Should be path to the file
 data <- abRead(file, "chr14")
 abBarplot(data)
 
-
-
-
-
+# To convert to a GRanges:
+gr <- convert2GRanges(data)
 
 
