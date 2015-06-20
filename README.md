@@ -41,3 +41,5 @@ We preprocessed each methylation cancer dataset separately by using the 'noob' b
 
 ### References
 
+
+[Fortin et al., 2015]: Jean-Philippe Fortin, Kasper D. Hansen. Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data, 
