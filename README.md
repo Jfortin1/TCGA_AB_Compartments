@@ -41,7 +41,7 @@ chr1	1300000	1399999	-0.585600098287715	open
 
 ## Visualization 
 
-The subdirectory `visualization` contains an R script `visualization.R` to load the data into R and create a barplot of the eigenvector values, as well as a little function called `convert2GRanges()` that will convert the data to a GRanges for convenience. 
+The subdirectory `visualization` contains an R script `visualization.R` to load the data into R and create a barplot of the eigenvector values (see image above), as well as a little function called `convert2GRanges()` that will convert the data to a GRanges for convenience. 
 
 ## Note about preprocessing
 
