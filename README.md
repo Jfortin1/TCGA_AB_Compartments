@@ -47,7 +47,7 @@ chr1	1300000	1399999	-0.585600098287715	open
 
 ## Scripts
 
-The code used to generate A/B compartments from 450k methylation array data is implemented in the `compartments()` function in minfi and can be found in the [GitHub repo of minfi](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R)
+The code used to generate A/B compartments from 450k methylation array data is implemented in the `compartments()` function of the devel version of [minfi](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R) on GitHub.
 
 ## Visualization 
 
