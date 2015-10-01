@@ -8,7 +8,7 @@ associated with open and closed chromatin. In a recent paper, available as a pre
 
 Please cite our paper if using these data:
 
-Jean-Philippe Fortin, Kasper D. Hansen. *Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data*. bioRxiv, 2015, doi: http://dx.doi.org/10.1101/019000
+Jean-Philippe Fortin, Kasper D. Hansen. *Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data*. Genome Biology,16:180, 2015, doi:10.1186/s13059-015-0741-y
 
 
 
